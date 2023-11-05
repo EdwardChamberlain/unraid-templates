@@ -16,7 +16,7 @@ For more info see: https://www.namecheap.com/support/knowledgebase/article.aspx/
   <Category>Tools: Network:DNS Network:Management Status:Stable</Category>
   <WebUI/>
   <TemplateURL/>
-  <Icon>https://github.com/EdwardChamberlain/unraid-templates/blob/main/assets/namecheap.jpg?raw=true</Icon>
+  <Icon>https://raw.githubusercontent.com/EdwardChamberlain/unraid-templates/main/assets/namecheap.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
